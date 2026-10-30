@@ -1,0 +1,8 @@
+{
+  "name": "StockMaster Pro - Stock Maintenance & Inventory System",
+  "description": "Complete production-ready stock maintenance and inventory management system with role-based access control, purchase order workflows, atomic stock transactions, real-time alerts, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
